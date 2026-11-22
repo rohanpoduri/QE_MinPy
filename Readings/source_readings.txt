@@ -1,0 +1,12 @@
+# scott cunningham - Causal Inference (The Remix)
+https://mixtape.scunning.com
+
+# Intro to Econometrics in R (ITER)
+https://www.econometrics-with-r.org
+
+# UCLA: STATA Learning Modules
+https://stats.oarc.ucla.edu/stata/modules/
+
+# Quant Econ: A First Course in Quantitative Economics with Python
+https://intro.quantecon.org/intro.html
+
