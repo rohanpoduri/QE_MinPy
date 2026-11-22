@@ -3,3 +3,6 @@ https://web.stanford.edu/~gentzkow/research/CodeAndData.xhtml#magicparlabel-154
 
 # Applied Tips for Applied Micro RAs -- Livia Alfonsi and Gaia Dossi
 https://www.dropbox.com/scl/fi/0vc9ar0gfauad8xjdanux/Applied-Tips-for-Applied-Micro-RAs.pdf?rlkey=9asv8tcqv20j67dcn6t0txpp2&e=1&dl=0
+
+# Development Research in Practice The DIME Analytics Data Handbook -- Kristoffer Bjarkefur, Luiza Cardoso de Andrade, Benjamin Daniels, Maria Ruth Jones
+https://worldbank.github.io/dime-data-handbook/
