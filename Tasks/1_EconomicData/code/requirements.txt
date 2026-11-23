@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+openpyxl
+xlrd
+wbgapi
+pandas_datareader
+plotly
+
